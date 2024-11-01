@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Text2imagE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-28 14:56+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mario Spinaci <mariospinaci@tiscali.it>\n"
+"Language-Team: WebUp <team@webup.it>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/mariospinaci/Sites/wp-content/plugins/text2image\n"
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/wp-text2image.php:63
+msgid "Example´s test"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/wp-text2image.php:96
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:141
+msgid "Delete"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/wp-text2image.php:100
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:13
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/list_table.inc.php:20
+msgid "New"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/wp-text2image.php:103
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:26
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/preview.inc.php:64
+msgid "Back"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/wp-text2image.php:106
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:143
+msgid "Preview"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/wp-text2image.php:111
+msgid "Fill all"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/wp-text2image.php:115
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/functions.inc.php:6
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:25
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:38
+msgid "Insert"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/wp-text2image.php:119
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/functions.inc.php:10
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:53
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:140
+msgid "Update"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:14
+msgid "Write the name"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:64
+msgid "Name:"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:76
+msgid "Block:"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:80
+msgid "Width (1):"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:82
+msgid "Height (2):"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:86
+msgid "Trasparent:"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:93
+msgid "Background Color:"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:95
+msgid "Text color:"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:101
+msgid "Font:"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:121
+msgid "Text Height:"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:125
+msgid "Left margin (3):"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:127
+msgid "Top margin (4):"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/insert.inc.php:133
+msgid "Example's test:"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/list_table.inc.php:11
+msgid "Text 2 Image - List"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/list_table.inc.php:21
+msgid "ID"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/list_table.inc.php:22
+msgid "Name"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/list_table.inc.php:23
+msgid "Dimension"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/list_table.inc.php:24
+msgid "Font"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/preview.inc.php:19
+msgid "Replace &#60;&#63; the_title(); &#63;&#62; into the pages of your theme with this script:"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/preview.inc.php:21
+msgid "Insert this script into your pages or posts (VERY IMPORTANT: EXEC-PHP must installed and active):"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/preview.inc.php:28
+msgid "Text 2 Image - Preview"
+msgstr ""
+
+#: /Users/mariospinaci/Sites/wp-content/plugins/text2image/inc/rightside.php:33
+msgid "This plugin has the functionality to convert a string into an image.<br><br>If deemed valid this plugin please contribute a little tender the project. Thank you."
+msgstr ""
+
